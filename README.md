@@ -11,7 +11,7 @@ TestCafe Assesment
 - To run in Chrome browser use: npm run chrome
 - To run in Firefox browser use: npm run firefox
 - To run in Safari browser use: npm run safari
-- To run and get an Html report use: npm run html
+- To run and get an Html report use: npm run html (report will save on root project forlder)
     
 # Technology used
 - TestCafe
