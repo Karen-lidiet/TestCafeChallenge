@@ -13,6 +13,6 @@ TestCafe Assesment
 - To run and get an Html report use: npm run safari
     
 # Technology used
-TestCafe
-faker.js (data provider)
-testcafe-reporter-html 
+- TestCafe
+- faker.js (data provider)
+- testcafe-reporter-html 
