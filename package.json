@@ -1,0 +1,19 @@
+{
+  "name": "demotestcafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "chrome": "testcafe chrome ./page_model/test",
+    "firefox": "testcafe firefox ./page_model/test",
+    "safari": "testcafe safari ./page_model/test",
+    "html": "testcafe chrome ./page_model/test/* --reporter html:./report.html"
+  },
+  "author": "karen",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "faker": "^5.4.0",
+    "testcafe-reporter-html": "^1.4.6"
+  }
+}
