@@ -18,3 +18,6 @@ TestCafe Assesment
 - TestCafe
 - faker.js (data provider)
 - testcafe-reporter-html 
+
+# Additional comments
+I know is a bad practice to add the credentials into the repository, however I added it because of challenge purpose 
